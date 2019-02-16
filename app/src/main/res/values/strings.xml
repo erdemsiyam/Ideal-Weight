@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">İdeal Kilo Hesaplama</string>
+    <string name="boy_m">Boy (m) :</string>
+    <string name="kilo_kg">Kilo (kg) :</string>
+    <string name="cinsiyet">Cinsiyet :</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="erkek">Erkek</string>
+    <string name="k_z">Kız</string>
+
+</resources>
